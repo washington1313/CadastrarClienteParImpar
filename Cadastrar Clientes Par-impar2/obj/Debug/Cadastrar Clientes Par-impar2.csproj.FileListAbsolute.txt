@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\bin\Debug\Cadastrar Clientes Par-impar2.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\bin\Debug\Cadastrar Clientes Par-impar2.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\bin\Debug\Cadastrar Clientes Par-impar2.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\obj\Debug\Cadastrar Clientes Par-impar2.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\obj\Debug\Cadastrar Clientes Par-impar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\obj\Debug\Cadastrar Clientes Par-impar2.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\obj\Debug\Cadastrar Clientes Par-impar2.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Clientes Par-impar2\Cadastrar Clientes Par-impar2\obj\Debug\Cadastrar Clientes Par-impar2.pdb
